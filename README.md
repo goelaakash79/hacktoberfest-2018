@@ -47,6 +47,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Student, Code Ninza
 - [![github-alt][github-img]](https://github.com/captainadsh)
 
+### Arshad
+- Student, Developer
+- [![github-alt][github-img]](https://github.com/iMohammadArshad)
+
 ### Aditya Choudhary
 - Software Engineer in India
 - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
